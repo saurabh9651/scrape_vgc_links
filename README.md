@@ -7,11 +7,11 @@ This project is a simple web scraper that extracts article links from a list of 
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/article-link-scraper.git
+git clone https://github.com/saurabh9651/scrape_vgc_links.git
 ```
 2. Change into the project directory:
 ```
-cd article-link-scraper
+cd scrape_vgc_links
 ```
 3. Create a virtual environment and activate it:
 ```
@@ -41,5 +41,4 @@ Create a `article_links.csv` file that contains URLs of all articles on VGChartz
 ## License
 This project is licensed under the MIT License.
 
-Don't forget to replace `https://github.com/yourusername/article-link-scraper.git` with the actual URL of your GitHub repository.
 
