@@ -34,7 +34,7 @@ python article_scraper.py
 ## Output
 Create a `article_links.csv` file that contains URLs of all articles on VGChartz. It contians a header "Article Links".
 
-# Applications of output data
+### Applications of output data
 1. URL validation check
 2. Article content scraping
 
