@@ -30,6 +30,14 @@ pip install -r requirements.txt
 python article_scraper.py
 ```
 3. Check the `article_links.csv` file for the extracted article links.
+
+## Output
+Create a `article_links.csv` file that contains URLs of all articles on VGChartz. It contians a header "Article Links".
+
+# Applications of output data
+1. URL validation check
+2. Article content scraping
+
 ## License
 This project is licensed under the MIT License.
 
