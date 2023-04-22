@@ -2,6 +2,8 @@
 
 This project is a simple web scraper that extracts article links from a list of URLs using the Scrapy framework. The extracted links are then saved in a CSV file. The scraper is built to run concurrently using Python's multiprocessing module.
 
+![image](https://user-images.githubusercontent.com/16968671/233770609-ffa07b7c-5af1-483e-af23-fb7db3763b87.png)
+
 ## Installation
 1. Clone the repository:
 ```
